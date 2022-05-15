@@ -1,13 +1,13 @@
-package com.example.enity;
+package miu.edu.ea;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EnityApplication {
+public class BadgeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EnityApplication.class, args);
+        SpringApplication.run(BadgeApplication.class, args);
     }
 
 }
